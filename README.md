@@ -24,6 +24,6 @@ The project is modularized and organized into specific directories for better ma
 └── Makefile
 ```
 
-#Future Ideas
+# Future Ideas
 
- #Code Optimization: Refactor and optimize the codebase to ensure the script is highly efficient, practical, and truly reliable for everyday use.
+ ### Code Optimization: Refactor and optimize the codebase to ensure the script is highly efficient, practical, and truly reliable for everyday use.
